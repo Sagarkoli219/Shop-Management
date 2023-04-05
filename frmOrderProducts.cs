@@ -81,6 +81,7 @@ namespace Shop_Management
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
+            // sagar
             for (int i = 0; i < dataGridViewOrderProducts.Rows.Count; i++)
             {
                 if (dataGridViewOrderProducts.Rows[i].Cells[1].Value != null)
