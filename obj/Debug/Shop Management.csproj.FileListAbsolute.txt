@@ -1,0 +1,22 @@
+D:\.net\Windows Application\Shop Management\bin\Debug\Shop Management.exe.config
+D:\.net\Windows Application\Shop Management\bin\Debug\Shop Management.exe
+D:\.net\Windows Application\Shop Management\bin\Debug\Shop Management.pdb
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.Form1.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmLogIn.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.cache
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop Management.exe
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop Management.pdb
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmUser.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmProduct1.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmSize.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmType.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmOrder.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmAdmin.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmAllProducts.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmOrderProducts.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmOffer.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmNotOrderCust.resources
+D:\.net\Windows Application\Shop Management\obj\Debug\Shop_Management.frmUnOrderProduct.resources
